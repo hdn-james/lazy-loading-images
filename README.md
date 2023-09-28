@@ -14,7 +14,11 @@ Lazy loading images with blurred placeholders is a simple way to improve the use
 
 In this assignment, I use a package name "Sharp" to generate placeholder images.
 
-# Demonstration
+
+# Live demo
+
+https://huynhdainhan.github.io/lazy-loading-images/
+# Local demo
 
 ## Install packages
 
