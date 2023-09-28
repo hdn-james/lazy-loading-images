@@ -38,6 +38,8 @@ yarn convert
 yarn start
 ```
 
+# GitHub repo
+https://github.com/huynhdainhan/lazy-loading-images
 
 
 
