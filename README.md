@@ -10,7 +10,7 @@ The biggest downside to this basic lazy loading is that the user will see a blan
 
 A blurred placeholder image is a low-resolution version of the full image that is blurred to hide the details. This gives the user a sense of what the image will be, even though it is not yet fully downloaded. Once the full image is downloaded, the blurred placeholder image is replaced with the full image.
 
-Lazy loading images with blurred placeholders is a simple way to improve the user experience of your website. It can also help to improve the performance of the website by reducing the number of images that are loaded at once.
+Lazy loading images with blurred placeholders is a simple way to improve the user experience of the website. It can also help to improve the performance of the website by reducing the number of images that are loaded at once.
 
 In this assignment, I use a package name "Sharp" to generate placeholder images.
 
