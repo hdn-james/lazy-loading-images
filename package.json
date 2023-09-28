@@ -1,0 +1,18 @@
+{
+	"dependencies": {
+		"serve": "^14.2.1",
+		"sharp": "^0.32.6"
+	},
+	"name": "lazy-image-load",
+	"version": "1.0.0",
+	"main": "index.js",
+	"devDependencies": {},
+	"scripts": {
+		"convert": "mkdir -p ./images/placeholder && mkdir -p ./images/webp && node image-converter.js",
+		"start": "serve -l 3000 -s ./"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
